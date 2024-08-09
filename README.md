@@ -2,7 +2,7 @@
 
 ## 目录
 
-| [cpp](https://github.com/ababll5/my_blog/edit/main/README.md#cpp)|[html](https://github.com/ababll5/my_blog/edit/main/README.md#html)|[hexo](https://github.com/ababll5/my_blog/edit/main/README.md#hexo)|[教程](https://github.com/ababll5/my_blog/edit/main/README.md#%E6%95%99%E7%A8%8B)|
+| [cpp](https://github.com/ababll5/my_blog/tree/main#cpp)|[html](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#html)|[hexo](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#hexo)|[教程](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#%E6%95%99%E7%A8%8B)|
 |--------------------|--------------------|--------------------|------------------|
 
 
