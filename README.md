@@ -7,6 +7,6 @@
 
 
 ## cpp
-[c++输出hello world](posts/cpp/c-输出hello-world.md)
-[小白学·指针](posts/cpp/小白初学指针.md)
-[小白学结构体](posts/cpp/小白学结构体.md)
+[c++输出hello world](posts/cpp/c-输出hello-world.md)  
+[小白学·指针](posts/cpp/小白初学指针.md)  
+[小白学结构体](posts/cpp/小白学结构体.md)  
