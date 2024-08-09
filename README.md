@@ -28,11 +28,11 @@
 4. []()
 
 ## hexo
-1. []()
-2. []()
+1. [hexo+GitHub搭建教程(图片失效)](posts/hexo/hexo-github搭建教程.md)
+2. [hexo博客简单使用](posts/hexo/搭建好后个人hexo框架的博客该如何使用.md)
 3. []()
 
 ## 教程
-1. []()
-2. []()
+1. [vscode上的一个ai](posts/教程/找到一个VScode上帮助你写代码ai.md)
+2. [搭建一个属于自己的网站](posts/教程/搭建一个属于自己的网站.md)
 3. []()
