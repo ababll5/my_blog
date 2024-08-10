@@ -40,3 +40,8 @@
 2. [搭建一个属于自己的网站](posts/教程/搭建一个属于自己的网站.md)
 3. [如何纯使用github当博客](posts/教程/如何纯使用github当博客.md)
 
+# 分享
+1. [github的markdown图标](posts/分享/github的markdown图标.md)
+
+
+
