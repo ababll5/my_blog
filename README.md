@@ -7,6 +7,8 @@
 
 | [cpp](https://github.com/ababll5/my_blog/tree/main#cpp)|[html](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#html)|[hexo](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#hexo)|[教程](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#%E6%95%99%E7%A8%8B)|
 |--------------------|--------------------|--------------------|------------------|
+| [分享](https://github.com/ababll5/my_blog?tab=readme-ov-file#%E5%88%86%E4%BA%AB)|[友链](friend/index.md)|无|无|
+
 
 
 ## cpp
