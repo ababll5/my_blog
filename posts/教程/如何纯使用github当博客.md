@@ -93,10 +93,11 @@
 # 后话
 
 如果有任何问题就去评论区或者[我博客仓库](https://github.com/ababll5/my_blog/issues)的issues去问我，我会尽可能第一时间回答你   
-有好看的自定义方案也能去评论区或者[我博客仓库](https://github.com/ababll5/my_blog/issues)的issues告诉我  
+有好看的自定义方案也能去评论区或者[我博客仓库](https://github.com/ababll5/my_blog/issues)的issues告诉我   
 
-
-
+# 要留友情链接的这样写
+博客名：
+博客链接：
 
 
 
