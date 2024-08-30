@@ -7,7 +7,7 @@
 
 | [cpp](https://github.com/ababll5/my_blog/tree/main#cpp)|[html](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#html)|[hexo](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#hexo)|[教程](https://github.com/ababll5/my_blog/tree/main?tab=readme-ov-file#%E6%95%99%E7%A8%8B)|
 |--------------------|--------------------|--------------------|------------------|
-| [分享](https://github.com/ababll5/my_blog?tab=readme-ov-file#%E5%88%86%E4%BA%AB)|无|无|无|
+| [分享](https://github.com/ababll5/my_blog?tab=readme-ov-file#%E5%88%86%E4%BA%AB)|[日常]()|无|无|
 
 
 
@@ -45,6 +45,9 @@
 ## 分享
 1. [github的markdown图标](posts/分享/github的markdown图标.md)
 2. [一个好用的图床](posts/分享/一个好用的图床.md) 2024-8-26
+
+## 日常
+1. [军训感想](posts/日常/军训感想.md) 2024-8-30
 
 
 
