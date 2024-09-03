@@ -10,7 +10,7 @@ on:
     branches:
       - main
     paths:
-      - master.py
+      - main.py
 
 jobs:
   sync:
